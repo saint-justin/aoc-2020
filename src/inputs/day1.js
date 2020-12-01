@@ -1,4 +1,4 @@
-const day1 = `1082
+const input = `1082
 1770
 1104
 1180
@@ -199,6 +199,4 @@ const day1 = `1082
 1772
 1970`;
 
-module.exports = {
-  day1,
-};
+module.exports = input;
